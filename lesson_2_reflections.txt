@@ -30,3 +30,10 @@ Q5: How do diagrams help you visualize the branch structure?
 A5: Diagrams are helpful in visualizing the branch structure because it allows
     you to see, at a glance, the history of a repo, including when and where it's
     branches diverged and when and where they were merged.
+
+Q6: What is the result of merging two branches together? Why do we represent it
+    in the diagram the way we do?
+
+A6: When you merge two branches you are attempting to combine all the changes
+    which have been made to both branches, from the point that they diverged,
+    into one commit.
