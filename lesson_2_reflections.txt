@@ -17,3 +17,10 @@ Q3: How can you use the staging area to mkae sure that you have one commit per
 A3: You can use the staging area to ensure that you have one commit per logical
     change by adding to it only the files who's changes are associated with that
     logical change. Leaving any others uncommitted in the working directory.
+
+Q4: What are some situations when branches would be helpful in keeping your
+    history organised? How would branches help?
+
+A4: Branches are helpful when you need to keep different versions of your code
+    seperated. An example of this would be if you were trying to implement an
+    experimental feature.
