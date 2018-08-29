@@ -37,3 +37,13 @@ Q6: What is the result of merging two branches together? Why do we represent it
 A6: When you merge two branches you are attempting to combine all the changes
     which have been made to both branches, from the point that they diverged,
     into one commit.
+
+Q7: What are the pros and cons of Git's automatic merging vs. always doing
+    merges manually?
+
+A7: The pros of automatic merging is that it takes the hassle out of manually
+    checking the changes made to each file that has been altered between the 
+    branches.
+    The cons however are that git's automerge cannot always pick up which version
+    of the code should be taken over the other, and requires manual intervention from
+    time to time.
