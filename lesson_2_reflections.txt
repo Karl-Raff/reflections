@@ -10,3 +10,10 @@ Q2: How is the staging area different from the working directory and
 A2: The staging area is different in that it is a place to add only the
     files that you wish to be added to the commit. Having this area allows
     for a much greater level of control over what is committed and what isn't.
+
+Q3: How can you use the staging area to mkae sure that you have one commit per
+    logical change?
+
+A3: You can use the staging area to ensure that you have one commit per logical
+    change by adding to it only the files who's changes are associated with that
+    logical change. Leaving any others uncommitted in the working directory.
