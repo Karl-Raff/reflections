@@ -11,3 +11,18 @@ Q2: Why might you want to always pull changes manually rather than having Git au
 A2: Always manually pulling changes allows you to control when you're local repository is
     changed, it also allows you to control what branches of the remote repo you want to
     pull from.
+
+Q3: Describe the differences between forks, clones, and branches. When would you use one
+    instead of another?
+
+A3: Forks are copys of another persons repository on GitHub, forking creates a copy of the forked
+    repo on your own GitHub account, while keeping a reference to the forked repo. This is mainly
+    used when you wish to make use/alter another persons repository without making changes to their
+    personal copy of it.
+    Clones create a copy of a repository on your local machine. The target can be either another
+    local repositry or, more commonly, a remote repository. This is mainly used to get a repository
+    from a remote machine to your local machine.
+    Branching creates a copy of of a commit within a repository, which then forms the tip of a new
+    branch. This branch can then be altered and commited to without inpacting the original branch.
+    This is often used to make, sometimes experimental, changes to the committed files without impacting
+    the original branch.
