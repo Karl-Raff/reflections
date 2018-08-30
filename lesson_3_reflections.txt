@@ -26,3 +26,8 @@ A3: Forks are copys of another persons repository on GitHub, forking creates a c
     branch. This branch can then be altered and commited to without inpacting the original branch.
     This is often used to make, sometimes experimental, changes to the committed files without impacting
     the original branch.
+
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A4: Having a copy of the last known state of the remote stored locally allows you to work offline
+    more efficiently and allows you to quickly check differences between your local repo and the remote.
