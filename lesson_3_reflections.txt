@@ -4,3 +4,10 @@ A1: Some examples of when you might use a remote repositry are:
     When you want to collaborate with multiple developers.
     When you want to share your work across multiple machines.
     When you want to make your work publicly available.
+
+Q2: Why might you want to always pull changes manually rather than having Git automatically
+    stay up-to-date with your remote repository?
+
+A2: Always manually pulling changes allows you to control when you're local repository is
+    changed, it also allows you to control what branches of the remote repo you want to
+    pull from.
