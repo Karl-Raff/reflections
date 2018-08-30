@@ -1,0 +1,6 @@
+Q1: When would you want to use a remote repository instead of keeping all your work local?
+
+A1: Some examples of when you might use a remote repositry are:
+    When you want to collaborate with multiple developers.
+    When you want to share your work across multiple machines.
+    When you want to make your work publicly available.
