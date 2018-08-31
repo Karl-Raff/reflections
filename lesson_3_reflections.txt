@@ -37,3 +37,10 @@ Q5: How would you collaborate without using Git or GitHub? What would be easier,
 A5: Collaborating without Git or GitHub, or another form of version control, would be much more difficult.
     Files would have to be shared over email or FTP and there would be no history of files to review.
     The only difficulty with collaborating using git and GitHub is that there is a learning curve to it's use.
+
+Q6: When would you want to make changes in a seperate branch rather than directly into master? What benefits
+    does each approach have?
+
+A6: A good reason to commit changes to a branch rather than master is if you are unsure if the changes you are
+    making are going to make it into the master branch. Another reason is if you wish to submit your changes to
+    GitHub in the form of a pull request.
