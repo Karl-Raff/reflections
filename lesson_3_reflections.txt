@@ -31,3 +31,9 @@ Q4: What is the benefit of having a copy of the last known state of the remote s
 
 A4: Having a copy of the last known state of the remote stored locally allows you to work offline
     more efficiently and allows you to quickly check differences between your local repo and the remote.
+
+Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A5: Collaborating without Git or GitHub, or another form of version control, would be much more difficult.
+    Files would have to be shared over email or FTP and there would be no history of files to review.
+    The only difficulty with collaborating using git and GitHub is that there is a learning curve to it's use.
